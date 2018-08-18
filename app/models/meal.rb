@@ -1,4 +1,4 @@
 class Meal < ApplicationRecord
   belongs_to :truck
-  has_many :diets
+  has_and_belongs_to_many :meals
 end
