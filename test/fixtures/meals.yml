@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  price: MyString
+  truck: one
+  diets: one
+
+two:
+  name: MyString
+  price: MyString
+  truck: two
+  diets: two
